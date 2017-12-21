@@ -1,0 +1,123 @@
+What courses you have?
+We have Data science, R and python courses. Which course would you like to know about?
+Data science
+We'll teach you about statistical modelling in R as well as python which will make you industry ready.
+What is Machine Learning?
+Machine learning is an application of artificial intelligence (AI) that provides systems the ability to automatically learn and improve from experience without being explicitly programmed.
+What is Data Science?
+Data science, also known as data-driven science, is an interdisciplinary field about scientific methods, processes, and systems to extract knowledge or insights from data in various forms, either structured or unstructured, similar to data mining.
+What is Regression?
+Regression analysis is also used to understand which among the independent variables are related to the dependent variable, and to explore the forms of these relationships.
+What is Linear Regresson?
+linear regression is a linear approach for modeling the relationship between a scalar dependent variable y and one or more explanatory variables (or independent variables) denoted X.
+What is Multiple Linear Regression?
+Multiple linear regression is the most common form of linear regression analysis. As a predictive analysis, the multiple linear regression is used to explain the relationship between one continuous dependent variable and two or more independent variables.
+What is Logistic Regression?
+Logistic regression is a statistical method for analyzing a dataset in which there are one or more independent variables that determine an outcome. The outcome is measured with a dichotomous variable (in which there are only two possible outcomes).
+What is Classification?
+Classification is a general process related to categorization, the process in which ideas and objects are recognized, differentiated, and understood. A classification system is an approach to accomplishing classification.
+What is SVM?
+“Support Vector Machine” (SVM) is a supervised machine learning algorithm which can be used for both classification or regression challenges.
+What is Supervised Learning?
+Supervised learning is the machine learning task of inferring a function from labeled training data. The training data consist of a set of training examples. In supervised learning, each example is a pair consisting of an input object (typically a vector) and a desired output value (also called the supervisory signal).
+What is Unsupervised Learning?
+Unsupervised learning is a type of machine learning algorithm used to draw inferences from datasets consisting of input data without labeled responses. The most common unsupervised learning method is cluster analysis, which is used for exploratory data analysis to find hidden patterns or grouping in data.
+
+Hello, How can I help you?
+What is the minimum education require for data science course?
+Graduation in IT, Computer science, Statistics or any related field.
+Thank you
+with background of non-coding can apply for course?
+Yes
+what is duration of course?
+duration is from 3 weeks – 4 weeks
+which are the mode of teaching?
+Chatbot: Mode of teaching available are online and offline based.
+Thank you for an  Information
+you are welcome.
+What is Data Science?
+“Data science, also known as data-driven science, is an interdisciplinary field about scientific methods, processes, and systems to extract knowledge or insights from data in various forms, either structured or unstructured,similar to data mining."
+What is Regression?
+"Regression is a statistical measure used in finance, investing and other disciplines that attempts to determine the strength of the relationship between one dependent variable (usually denoted by Y) and a series of other changing variables (known as independent variables."
+What is Linear Regresson?
+"linear regression is a linear approach for modeling the relationship between a scalar dependent variable y and one or more explanatory variables (or independent variables."
+What is Multiple Linear Regression?
+"multiple linear regression is used to explain the relationship between one continuous dependent variable and two or more independent variables."
+What is Logistic Regression?
+"Logistic regression is a statistical method for analyzing a dataset in which there are one or more independent variables that determine an outcome."
+
+What is Classification?
+"In machine learning and statistics, classification is the problem of identifying to which of a set of categories (sub-populations) a new observation belongs, on the basis of a training set of data containing observations (or instances) whose category membership is known."
+What is SVM?
+"Support vector machines are supervised learning models with associated learning algorithms that analyze data used for classification and regression analysis."
+What is Supervised Learning?
+"Supervised learning is the machine learning task of inferring a function from labeled training data."
+What is Unsupervised Learning?
+"Unsupervised learning is a type of machine learningalgorithm used to draw inferences from datasets consisting of input data without labeled response."
+What is ANN(Artificial Neural Network)?
+"Artificial neural networks or connectionist systems are computing systems inspired by the biological neural networks that constitute animal brains."
+What is Deep Learning?
+"Deep learning is part of a broader family of machine learning methods based on learning data representations, as opposed to task-specific algorithms."
+Who you are ?
+"I am Imurgence Bot Here to help you."
+How Long will it take?
+"3 to 6 month."
+For whom this Course is for?
+"Data Scientist."
+Imurgence Address.
+Chatbot :” A 314, Sarita Building, Prabhat Industrial Complex, Next To Dahisar Check Naka, Western Express Highway, Dahisar East, Mumbai – 400068”
+How to contact Imurgence?
+"Let me know your Email ID or Contect No. Our Representetive will follow you shortly."
+Hello
+"Hii. How Can I Help You?"
+
+"Same as your"
+"I am fine, what about you?"
+"Data science, also known as data-driven science, is an interdisciplinary field about scientific methods, processes, and systems to extract knowledge or insights from data in various forms, either structured or unstructured,similar to data mining."
+"Regression is a statistical measure used in finance, investing and other disciplines that attempts to determine the strength of the relationship between one dependent variable (usually denoted by Y) and a series of other changing variables (known as independent variables)."
+"linear regression is a linear approach for modeling the relationship between a scalar dependent variable y and one or more explanatory variables (or independent variables)"
+"multiple linear regression is used to explain the relationship between one continuous dependent variable and two or more independent variables."
+"Logistic regression is a statistical method for analyzing a dataset in which there are one or more independent variables that determine an outcome."
+"In machine learning and statistics, classification is the problem of identifying to which of a set of categories (sub-populations) a new observation belongs, on the basis of a training set of data containing observations (or instances) whose category membership is known."
+ "SVM(Support vector machines) are supervised learning models with associated learning algorithms that analyze data used for classification and regression analysis."
+"Supervised learning is the machine learning task of inferring a function from labeled training data."
+"Unsupervised learning is a type of machine learningalgorithm used to draw inferences from datasets consisting of input data without labeled responses"
+"Artificial neural networks or connectionist systems are computing systems inspired by the biological neural networks that constitute animal brains."
+"DL(Deep learning) is part of a broader family of machine learning methods based on learning data representations, as opposed to task-specific algorithms"
+"By doing this course you will get to expose to actual world of analytics"
+"R is an open source programming language and software environment for statistical computing and graphics that is supported by the R Foundation for Statistical Computing"
+"Python is a widely used high-level programming language for general-purpose programming, created by Guido van Rossum and first released in 1991"
+"Tableau Software is a software company headquartered in Seattle, Washington, United States which produces interactive data visualization products focused on business intelligence"
+"Machine learning is a field of computer science that gives computers the ability to learn without being explicitly programmed"
+"I am Imurgence Bot Here to help you."
+"3 to 6 month"
+"Data Scientist"
+ "A 314, Sarita Building, Prabhat Industrial Complex, Next To Dahisar Check Naka, Western Express Highway, Dahisar East, Mumbai - 400068"
+"Let me know your Email ID or Contect No. Our Representetive will follow you shortly."
+"Hii. How Can I Help You?"
+"Both Online and Offline"
+"Python, R Programming, Data science, Tableau, Big data, Spark, advanced analytics."
+
+"500-20000"
+"500-5000 and /& 5hr – 8hr"
+"5000-8000 and /& 8hr – 24hr"
+"5000-20000 and/& 8hr -24hr"
+"Python, R Programming, Data science, Tableau, Big data, Spark, advanced analytics."
+"R online courses  having of cost/price – 5000 and  duration – 8hr."
+"Spark Programming  online  course having of cost/price – 5000 and  duration – 8hr."
+"Python online  course having of cost/price – 5000 and  duration – 8hr."
+"Tableau course online course having of cost/price – 500 and  duration – 5hr."
+"R self paced course having of cost/price – 10000 and  duration – 8hr or 24 hr, online/webinar."
+"Python self placed course of cost/price – 10000 and  duration – 8hr or 24 hr, online/webinar."
+"tableau self placed course cost/price – 1000 and  duration – 5hr or 8 hr, online/webinar."
+"Spark self placed course cost/price – 5000 and  duration – 8hr or 24 hr, online/webinar."
+"R classroom course cost/price – 4000 to 15000 and  duration – 24 hr."
+"Spark classroom course cost/price – 5000 to 20000 and  duration –24 hr."
+"Python classroom course cost/price – 5000 to 20000 and  duration –24 hr"
+"Tableau classroom course cost/price 2000 and  duration 8 hr."
+"Sorry Commited toword my work"
+"Yes, with data"
+"You are cute"
+
+
+
